@@ -27,4 +27,4 @@ spec:
           valueFrom:
             secretKeyRef:
               name: app-secret
-              key: rabbitmq-pass
+              key: rmq-pass
